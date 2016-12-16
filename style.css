@@ -129,3 +129,34 @@ header img{
 #cart{
     width: 60px;
 }
+
+/*Ta bort punkter i länklistorna*/
+footer li{
+    list-style: none;
+}
+
+/*Fixa färg, understrykning och storlek på länkarna*/
+footer a{
+    color: blue;
+    text-decoration: none;
+    display: block;
+    padding: 5px;
+}
+
+/*Fixa storlek och position*/
+.about{
+    width: 33%;
+    display: inline-block;
+}
+
+/*Fixa storlek och position*/
+.links{
+    width: 33%;
+    display: inline-block;
+}
+
+/*Fixa storlek och position*/
+.follow{
+    width: 33%;
+    display: inline-block;
+}
