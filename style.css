@@ -101,4 +101,27 @@ input, select {
     vertical-align:middle;
 }
 
-/*----------------------------------------------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------------------------------------------*//*----------------------------------------------------------------------------------------------------------------*/
+
+/* lägger topmeny länkarna i rad*/
+.topmeny li{
+    display: inline-block
+}
+
+/*Fixar position, storlek, färg och understrukning på toppmeny länkarna*/
+.topmeny a{
+    padding: 15px;
+    display: block;
+    color: black;
+    text-decoration: none;
+}
+
+/*Fixar storleken på loggan*/
+header img{
+    width: 550px;
+}
+
+/*Fixar storlek på kundvagn*/
+#cart{
+    width: 60px;
+}
