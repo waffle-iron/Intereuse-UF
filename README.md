@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/coffedahl/Intereuse-UF.png?label=ready&title=Ready)](https://waffle.io/coffedahl/Intereuse-UF)
 # Intereuse-UF
 Webbsida för Intereuse UF
 
